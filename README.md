@@ -1,7 +1,7 @@
 # Using TGNLP to Create Features for Model Training
 ## Author: Primrose Johns
 Hello! In this guide, I will be demoing some of the useful features of a library I collaborate on (TGNLP).  Hopefully, this will help you to consider how TGNLP could be useful for your own projects.<br>
-I will also be including information that will help someone proficient in Python but no with machine learning experience specifically. I hope you learn something new!<br>
+I will also be including information that will help someone proficient in Python but with little to no machine learning experience specifically.<br>
 I have formatted this guide into a list of steps, mostly because that's how I'm used to writing ML Jupyter Notebooks. Here's an overview of what I'll be covering:<br>
 * Step 0: Loading in the dataset we want to train our classifier on.
 * Step 1: Preprocessing the data before it goes into our graph generator (plus some pandas tips/tricks).
